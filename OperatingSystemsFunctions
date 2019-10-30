@@ -1,1 +1,2 @@
 One of the main operating system functions is to manage the computers memory.  This would be the internal memory of the computer, also known as RAM (random access memory).  The task of memory management is to ensure that the processes performed by the computer are able to access adequate memory to function.
+Another operating system function is called booting.  Booting is the process the computer goes through to start up.  It checks the system to make sure it's prepared to run properly.
